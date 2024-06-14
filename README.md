@@ -22,8 +22,8 @@ This React Native application fetches a list of popular movies from the TMDB API
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/movie-list-app.git
-   cd movie-list-app
+   git clone  https://github.com/Chintu1666/ERP-movie-app.git
+   cd ERP-movie-app
    
 2. **Install dependencies**
    npm install
